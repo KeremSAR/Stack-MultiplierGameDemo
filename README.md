@@ -1,1 +1,1 @@
-.# Stack-MultiplierGameDemo
+# Stack-MultiplierGameDemo
